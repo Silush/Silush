@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on new projects
 - 📫 Talk with me +5548999314341 t.me/Samorasilush
 
+- Learn now:
+- HTML/CSS
+- English
+
 <!---
 Silush/Silush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
