@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Silush Samora
+- 👋 Hi, I’m @Samora
 - 👀 I’m interested in finance, business, music, numbers
 - 🌱 I’m currently learning programation
 - 💞️ I’m looking to collaborate on new projects
